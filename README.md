@@ -8,4 +8,3 @@
 
 * **[Shareable Codex Skills](https://github.com/kimplwjf/shareable-codex-skills):** 可公开安装的 Codex Skills，覆盖可信内容写作、公众号工作流、短信审核与可编辑 PPTX 交付。
 * **[迹塑工坊](https://github.com/kimplwjf/gpx-terrain-print-studio-releases):** 面向 Apple Silicon Mac 的 GPX 地形 3D 打印工作台。
-* **[Bottle](https://github.com/kimplwjf/bottle):** 使用 Swift 编写的微信“漂流瓶”功能仿制示例。
